@@ -1,1 +1,1 @@
-// JavaScript
+console.log("CRIGHTEOUSGAMER frontend loaded.");
